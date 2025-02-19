@@ -1,0 +1,13 @@
+{
+  "accountName": "YOUR_STEAM_USERNAME",
+  "password": "YOUR_STEAM_PASSWORD",
+  "sharedSecret": "YOUR_SHARED_SECRET",
+  "gameIDs": [440],
+  "machineName": "IdleBot1",
+  "status": "Invisible",
+  "autoReply": true,
+  "autoReplyMessage": "I'm idling right now, will respond later!",
+  "acceptTrades": false,
+  "acceptFriends": true,
+  "trustedUsers": ["steamid64"]
+}

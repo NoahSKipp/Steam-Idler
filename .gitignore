@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+dataSources.local.xml
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Sensitive files
+config.json
+
+# Logs & temporary files
+*.log
+.DS_Store
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
