@@ -1,0 +1,24 @@
+{
+  "name": "steam-idle",
+  "version": "1.0.0",
+  "description": "I made this bot on the side for fun, as I wanted a simple  way to idle Steam games while having additional functionality like status management and basic automation. It started as a personal project, but I figured others might find it useful too. Whether you want to farm hours or remotely control your Steam presence, this bot makes it easy.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahSKipp/Steam-Idler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahSKipp/Steam-Idler/issues"
+  },
+  "homepage": "https://github.com/NoahSKipp/Steam-Idler#readme",
+  "dependencies": {
+    "steam-totp": "^2.1.2",
+    "steam-user": "^5.2.0"
+  }
+}
