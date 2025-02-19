@@ -108,7 +108,7 @@ Modify the message that is sent when someone messages the bot:
 ### 🔹 Change Trusted Users
 Only trusted users can issue chat commands:
 ```json
-"trustedUsers": ["STEAM_0:1:12345678"]
+"trustedUsers": ["steamid64"]
 ```
 
 ---
